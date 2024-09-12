@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -11,7 +10,7 @@ body {font-family: 'Lucida Grande', monospace;}
 <h1 id="atas">Review Seri Buku : The Hunger Games</h1>
 <h4> <a href="#sinopsis"> Sinopsis</a></h4>
 <h4> <a href="#kelebihan"> Kelebihan dan Kekurangan </a></h4>
-<img src= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsK-WdpQlyMqbcQg_oyJFdZ_rgCkSt9NHow&s.jpg>
+
     <p>Trilogi The Hunger Games adalah seri novel fiksi ilmiah-petualangan yang dikarang oleh penulis Amerika Serikat Suzanne Collins. Trilogi ini terdiri dari: The Hunger Games Catching Fire, di Indonesia diterbitkan dengan judul Tersulut Mockingjay. Novel ini dikisahkan dalam sudut pandang seorang gadis umur 16 tahun bernama Katniss Everdeen, yang tinggal di sebuah negara distopia pascaapokalips bernama Panem di Amerika Utara. Capitol, ibu kota metropolis yang sangat maju, memegang kendali politik atas keseluruhan negara. The Hunger Games adalah acara tahunan yang diikuti oleh seorang anak laki-laki dan perempuan yang berusia antara 12–18 tahun dari dua belas distrik di sekeliling Capitol, yang dipilih melalui pengundian untuk bersaing dalam pertarungan mematikan yang disiarkan secara langsung di televisi.</p>
     
 <h2 id="sinopsis">Sinopsis</h2>
