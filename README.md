@@ -1,8 +1,6 @@
 <html>
 <head>
-<style>
-body {font-family: 'Lucida Grande', monospace;}
-</style>
+
 <title>Page Title</title>
 </head>
 <body>
